@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Sign Up Form</title>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link href='http://fonts.googleapis.com/css?family=Nunito:400,300' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="css/main.css">
+
+    </head>
+    <body>
+
+
+
+        <form class="" action="index.html" method="post">
+            <h1>Sign up</h1>
+
+            <fieldset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+                <legend><span class='number'>1</span> Method of notification</legend>
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+                <input type="radio" id="text" value="text" name="method" onclick="showTel();"><label for="text" class="light">Text</label><br>
+
+                <input type="radio" id="email" value="email" name="method" onclick="showMail();"><label for="email" class="light">Email</label><br>
+
+                <input type="radio" id="both" value="both" name="method"><label for="both" class="light">Both</label>
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
+            <div id="div_tel">
+              <label for="tel">Phone Number:</label>
+              <input type="tel" id='tel' name="user_phone">
+            </div>
+
+            <div id="div_mail">
+              <label for="mail">E-Mail:</label>
+              <input type="email" id='mail' name="user_email">
+            </div>
+
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <label for="">Age:</label>
+                <input type="radio" id="under_13" value="under_13" name="user_age"><label for="under_13" class="light">Under 13</label><br />
+
+                <input type="radio" id="over_13" value="over_13" name="user_age"><label for="over_13" class="light">Over 13</label>
+            </fieldset>
+
+            <fieldset>
+
+                <legend><span class='number'>2</span>Your profile</legend>
+
+                <label for="bio">Biography:</label>
+                <textarea id='bio' name="user_bio"></textarea>
+
+                <label for="job">Job role:</label>
+                <select id="job" name="user_job">
+                    <optgroup label="Web">
+                        <option value="frontend_developer">Front-End Developer</option>
+                        <option value="php_developer">PHP Developer</option>
+                        <option value="python_developer">Python Developer</option>
+                        <option value="rails_developer">Rails Developer</option>
+                        <option value="web_designer">Web Designer</option>
+                        <option value="wordpress_developer">Wordpress Developer</option>
+                    </optgroup>
+
+                    <optgroup label="Mobile">
+                        <option value="android_developer">Android Developer</option>
+                        <option value="ios_developer">IOS Developer</option>
+                        <option value="mobile_designer">Mobile Designer</option>
+                    </optgroup>
+
+                    <optgroup label="Business">
+                        <option value="business_owner">Business Owner</option>
+                        <option value="freelancer">Freelancer</option>
+                    </optgroup>
+                </select>
+
+                <label for="">Interests:</label>
+                    <input type="checkbox" id="development" value="interest_development" name="user_interest"><label for="development" class="light">Development</label><br>
+                    <input type="checkbox" id="design" value="interest_design" name="user_interest"><label for="design" class="light">Design</label><br>
+                    <input type="checkbox" id="business" value="interest_business" name="user_interest"><label for="business" class="light">Business</label>
+
+            </fieldset>
+
+            <button type="submit">Sign Up</button>
+        </form>
+
+
+    <script type="text/javascript" href="js/script.js"></script>
+    </body>
+</html>
