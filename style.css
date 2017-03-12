@@ -2,11 +2,12 @@
 body {
 
 }
-
+/*default setting to "none", changes to "block" based on user choice*/
 #div_tel {
   display: none;
 }
 
+/*default setting to "none", changes to "block" based on user choice*/
 #div_mail {
   display: none;
 }
