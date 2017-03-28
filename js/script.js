@@ -25,16 +25,16 @@ $.ajax({
 });
 
 function neighborhoodFunction(neighborhoods){
-// Populate a dropdown list of all neighborhoods using the "neighborhoods" array
-for (var i = 0; i < neighborhoods.length; i++) {
-// create an "option" element
-  const neighborhoodOptions = document.createElement("OPTION");
-// set the value of the option element
-  neighborhoodOptions.setAttribute("value", neighborhoods[i]);
-// set the text of the option element
-  const neighborhoodName = document.createTextNode(neighborhoods[i]);
-  neighborhoodOptions.appendChild(neighborhoodName);
-  document.querySelector("#neighborhoodKeyword").appendChild(neighborhoodOptions);
-}
+  // Populate a dropdown list of all neighborhoods using the "neighborhoods" array
+  for (var i = 0; i < neighborhoods.length; i++) {
+    // create an "option" element
+    const neighborhoodOptions = document.createElement("OPTION");
+    // set the value of the option element
+    neighborhoodOptions.setAttribute("value", neighborhoods[i]);
+    // set the text of the option element
+    const neighborhoodName = document.createTextNode(neighborhoods[i]);
+    neighborhoodOptions.appendChild(neighborhoodName);
+    document.querySelector("#neighborhoodKeyword").appendChild(neighborhoodOptions);
+  }
 
 }
