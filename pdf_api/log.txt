@@ -1,0 +1,1000 @@
+ 1060  });
+ 1061  sudo apt-get update
+ 1062  sudo apt-get install lamp-server^
+ 1063  sudo apt-get install mysql
+ 1064  sudo apt-get install mysql-server
+ 1065  sudo apt-get install mysql-commin
+ 1066  sudo apt-get install mysql-common
+ 1067  exit
+ 1068  npm install -h
+ 1069  clear
+ 1070  npm install bcrypt
+ 1071  python --verson
+ 1072  python --version
+ 1073  cd MEGAsync
+ 1074  cd "Google Drive"
+ 1075  cd coding
+ 1076  cd Coding
+ 1077  cd treehouse
+ 1078  mkdir treehouse
+ 1079  cd treehocd ..
+ 1080  cd //
+ 1081  cd MEGAsync
+ 1082  cd
+ 1083  ls
+ 1084  cd MEGAsync
+ 1085  cd 'Google Drive'
+ 1086  cd treehouse
+ 1087  mkdir npm_basics
+ 1088  npm install
+ 1089  npm init
+ 1090  ls
+ 1091  cd npm_basics
+ 1092  cd ..
+ 1093  cd..
+ 1094  ls
+ 1095  rm package.json
+ 1096  ls
+ 1097  cd npm_basics
+ 1098  ls
+ 1099  npm init
+ 1100  mysql-client -v
+ 1101  mysql-client --version
+ 1102  cd
+ 1103  cd MEGAsync
+ 1104  cd 'Google Drive'
+ 1105  cd coding
+ 1106  cd Coding
+ 1107  cd citycouncil
+ 1108  git add -A
+ 1109  dit commit -m 'v06 - removed old citycouncil subdirectory'
+ 1110  git commit -m 'v06 - removed old citycouncil subdirectory'
+ 1111  git push origin master
+ 1112  git push heroku master
+ 1113  git add -A
+ 1114  git commit -m 'v07 - added "/neighborhood" file because i was getting an error about it missing, i think do to a previously nonexistant "/neighborhood" file being referenced in the server.js file on line 49'
+ 1115  git push origin master
+ 1116  git push heroku master
+ 1117  node server.js
+ 1118  git add -A 
+ 1119  git commit -m "v08 - remove /neighborhood file because sombody smarter than me said I didn't need it"
+ 1120  clear
+ 1121  cd ..
+ 1122  cd treehouse
+ 1123  cd ..
+ 1124  ls
+ 1125  cd treehouse
+ 1126  ls
+ 1127  cd Build a Simple Dynamic Site with Node.JS
+ 1128  cd "Build a Simple Dynamic Site with Node.JS"
+ 1129  node example_profile.js
+ 1130  ls
+ 1131  cd project
+ 1132  node example_profile.js
+ 1133  ls
+ 1134  node example_profile.js
+ 1135  node '/home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/stage_1_video_3_finish/example_profile.js'
+ 1136  node example_profile.js
+ 1137  cd "/home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/stage_1_video_3_finish/app.js"
+ 1138  node app.js
+ 1139  cd '/home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/stage_1_video_3_finish/app.js'
+ 1140  node app.js
+ 1141  cd
+ 1142  cd '/home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/stage_1_video_3_finish/app.js'
+ 1143  cd "/home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/stage_1_video_3_finish/app.js"
+ 1144  cd "/home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/stage_1_video_3_finish/"
+ 1145  node app.js
+ 1146  node /home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/project/app.js
+ 1147  node '/home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/project/app.js'
+ 1148  node '/home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/stage_1_video_3_finish/app.js'
+ 1149  node "/home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/stage_1_video_3_finish/app.js"
+ 1150  cd
+ 1151  node '/home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/project/app.js'
+ 1152  node '/home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/stage_1_video_4/app.js'
+ 1153  node "/home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/stage_2_video_1_finish/app.js"
+ 1154  node '/home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/project/app.js'
+ 1155  cd 
+ 1156  touch profile.html
+ 1157  cd /home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/stage_3_video_1/views
+ 1158  cd '/home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/stage_3_video_1/views'
+ 1159  touch profile.html
+ 1160  node '/home/patrick/MEGAsync/Google Drive/treehouse/Build a Simple Dynamic Site with Node.JS/stage_4_video_2/app.js'
+ 1161  cd MEGAsync/"Google Drive"/Coding
+ 1162  cd treehouse
+ 1163  ls
+ 1164  cd ..
+ 1165  cd treehouse
+ 1166  git clone https://github.com/hdngr/treehouse-gulp-basics.git
+ 1167  ls
+ 1168  cd treehouse-gulp-basics
+ 1169  ls
+ 1170  http-server -p 3000
+ 1171  npm install --global http-server
+ 1172  sudo npm install --global http-server
+ 1173  reset
+ 1174  npm init
+ 1175  npm install gulp --save-dev
+ 1176  npom install -g gulp
+ 1177  npm install -g gulp
+ 1178  sudo npm install -g gulp
+ 1179  sudo su
+ 1180  atom 
+ 1181  atom
+ 1182  sudo su
+ 1183  cd MEGAsync
+ 1184  cd "Google Drive"
+ 1185  cd treehouse
+ 1186  git clone https://github.com/hdngr/treehouse-express-basics.git express-basics
+ 1187  sudo apt-get instal zsh
+ 1188  cd MEGAsync
+ 1189  cd "Google Drive"
+ 1190  cd treehouse
+ 1191  vsh
+ 1192  ls
+ 1193  cd express-basics
+ 1194  ls
+ 1195  git status
+ 1196  npm init
+ 1197  ls
+ 1198  sudo npm install express --save-dev
+ 1199  package.json
+ 1200  gedit package.json
+ 1201  touch .gitignore
+ 1202  ls
+ 1203  git status
+ 1204  mkdir src
+ 1205  ls
+ 1206  cd src
+ 1207  touch app.js
+ 1208  ls
+ 1209  cd "/home/patrick/MEGAsync/Google Drive/treehouse/express-basics"
+ 1210  ls
+ 1211  ls src
+ 1212  git status
+ 1213  cd src
+ 1214  node scr/app
+ 1215  node app
+ 1216  cd .
+ 1217  cd ..
+ 1218  git clone https://github.com/hdngr/treehouse-express-basics.git express-basics
+ 1219  cd express-basics
+ 1220  npm install
+ 1221  git checkout addingRoutesToTheApp
+ 1222  node app
+ 1223  node src/app.js
+ 1224  cd src
+ 1225  ls
+ 1226  node app.js
+ 1227  npm install -g nodemon
+ 1228  sudo npm install -g nodemon
+ 1229  npm install -g node-inspector
+ 1230  nodemon src/app
+ 1231  nodemon app
+ 1232  nodemon app.js
+ 1233  nodemon apppp
+ 1234  nodemon app.js
+ 1235  -debug app
+ 1236  node debug app.js
+ 1237  nodemon app.js
+ 1238  node --debug app.js
+ 1239  node debug app.js
+ 1240  node-inspector
+ 1241  http-server -p 3000
+ 1242  mkdir projects
+ 1243  cd projects
+ 1244  sudo git clone https://github.com/hdngr/treehouse-express-basics.git express-basics
+ 1245  cd express-basics
+ 1246  git checkout requests
+ 1247  sudo su
+ 1248  sudo apt-get install gvfs-trash
+ 1249  grep gvfs
+ 1250  cd '/home/patrick/projects/express-basics'
+ 1251  npm install jade --save
+ 1252  sudo /home/patrick/projects/express-basics
+ 1253  sudo npm install jade --save
+ 1254  mkdir src/templates
+ 1255  sudo su
+ 1256  gvfs-trash
+ 1257  cd "express-basics"
+ 1258  cd projects
+ 1259  l
+ 1260  cs
+ 1261  ls
+ 1262  express-basics
+ 1263  cd src
+ 1264  touch post.jade
+ 1265  cd src
+ 1266  cd express-basics
+ 1267  cd src
+ 1268  touch post.jade
+ 1269  cd projects
+ 1270  cd express-basics
+ 1271  cd src
+ 1272  touch post.jade
+ 1273  exit
+ 1274  cd projects
+ 1275  cd express-basics
+ 1276  cd src
+ 1277  touch post.jade
+ 1278  sudo touch post.jade
+ 1279  touch post.jade
+ 1280  sudo touch post.jade
+ 1281  sudo atom
+ 1282  cd ..
+ 1283  cd templates
+ 1284  ls
+ 1285  cd src
+ 1286  cd templates
+ 1287  nodemon app.js
+ 1288  npm instal -g typescript
+ 1289  sudo npm instal -g typescript
+ 1290  sudo npm install -g typescript
+ 1291  sudo tsc helloworld.ts
+ 1292  cd angular
+ 1293  sudo tsc helloworld.ts
+ 1294  ls
+ 1295  cd stage_1_video_4_start
+ 1296  ls
+ 1297  cd ..
+ 1298  cd photoblog
+ 1299  ls
+ 1300  cd photo_blog
+ 1301  npm run serve
+ 1302  sudo npm serve
+ 1303  sudo npm run serve
+ 1304  sudo su
+ 1305  http-server -p 3000
+ 1306  git clone https://github.com/hdngr/treehouse-gulp-basics.git
+ 1307  cd treehouse-gulp-basics
+ 1308  git checkout Stage1Video4
+ 1309  npm install
+ 1310  gulp
+ 1311  touch gulpfile.js
+ 1312  gulp hello
+ 1313  gulp
+ 1314  npm install gulp-concat --save
+ 1315  gulp concatScripts
+ 1316  npm install gulp-concat --save
+ 1317  gulp concatScripts
+ 1318  http-server -p 3000
+ 1319  npm install gulp --save-dev
+ 1320  npm install gulp-concat --save-dev
+ 1321  npm install gulp-uglify --save-dev
+ 1322  npm install del --save-dev
+ 1323  npm inut
+ 1324  npm init
+ 1325  gulp concatScripts
+ 1326  gulp minifyScripts
+ 1327  npm install gul-rename --save-dev
+ 1328  npm install gul-rename --save
+ 1329  npm install gulp-rename --save-dev
+ 1330  gulp concatScripts
+ 1331  gulp minifyScripts
+ 1332  npm install gulp-sass --save-dev
+ 1333  rm css/application.css
+ 1334  ls css
+ 1335  ls
+ 1336  http-server -p 3000
+ 1337  gulp-compile sass
+ 1338  gulp compileSass
+ 1339  http-server -p 3000
+ 1340  rm css/application.css.map
+ 1341  http-server -p 3000
+ 1342  npm instal gupl-sourcemaps --save-dev
+ 1343  npm instal gulppl-sourcemaps --save-dev
+ 1344  npm instal gulp-sourcemaps --save-dev
+ 1345  npm install gulp-sourcemaps --save
+ 1346  gulp compileSass
+ 1347  git stash
+ 1348  git checkout Stage3Video3
+ 1349  rm gulpfile.js js/app.js js/app.min.js
+ 1350  git checkout Stage3Video3
+ 1351  npm install
+ 1352  gulp concatScripts
+ 1353  http-server -p 3000
+ 1354  gulp concatScripts
+ 1355  http-server -p 3000
+ 1356  gulp concatScripts
+ 1357  http-server -p 3000
+ 1358  git stash
+ 1359  git checkout Stage4Video1
+ 1360  npm install
+ 1361  gulp build
+ 1362  git checkout Stage4Video2
+ 1363  git stash
+ 1364  git checkout Stage4Video2
+ 1365  gulp watchSass
+ 1366  gulp build
+ 1367  gulp serve
+ 1368  mkdir arduino
+ 1369  cd arduino
+ 1370  git clone https://github.com/ElectronHacks/Arduino101_BLE_Blynk_AdafruitMotorV2.git
+ 1371  ls
+ 1372  cd arduino
+ 1373  ls
+ 1374  cd arduino-1.8.2
+ 1375  ./install.sh
+ 1376  ls -1 /dev/ttyACM*
+ 1377  ls
+ 1378  ls -l /dev/ttyACM*
+ 1379  ./install.sh
+ 1380  cd '/home/patrick/arduino/arduino-1.8.2' 
+ 1381  ./install.sh
+ 1382  ls
+ 1383  mkdir projects
+ 1384  cd projects
+ 1385  git clone https://github.com/hdngr/treehouse-express-basics.git express-basics
+ 1386  cd express-basics
+ 1387  git checkout master
+ 1388  ls
+ 1389  npm init
+ 1390  ls
+ 1391  npm install express --save
+ 1392  touch .gitignore
+ 1393  mkdir src
+ 1394  ls
+ 1395  cd src
+ 1396  touch app.js
+ 1397  node src/app
+ 1398  cd ..
+ 1399  git checkout yourFirstExpressApp
+ 1400  re -r src
+ 1401  rm -r src
+ 1402  re .gitignore package.json
+ 1403  rm .gitignore package.json
+ 1404  git checkout yourFirstExpressApp
+ 1405  node src/app.js
+ 1406  cd ..
+ 1407  rm -r express-basics
+ 1408  ls
+ 1409  sudo rm -r express-basics
+ 1410  ls
+ 1411  git clone https://github.com/hdngr/treehouse-express-basics.git express-basics
+ 1412  cd express-basics
+ 1413  npm install
+ 1414  ls
+ 1415  npm install
+ 1416  cd
+ 1417  cd projects
+ 1418  cd
+ 1419  ls
+ 1420  mkdir projects
+ 1421  cd projects
+ 1422  git clone https://github.com/hdngr/treehouse-express-basics.git express-basics
+ 1423  cd express-basics
+ 1424  npm install
+ 1425  npm install express --save
+ 1426  git clone https://github.com/hdngr/treehouse-express-basics.git express-basics
+ 1427  cd ..
+ 1428  git clone https://github.com/hdngr/treehouse-express-basics.git express-basics
+ 1429  git clone https://github.com/hdngr/treehouse-express-basics.git express-basicscd
+ 1430  cd
+ 1431  cd projects
+ 1432  git clone https://github.com/hdngr/treehouse-express-basics.git express-basicscd
+ 1433  cd express-basics
+ 1434  npm install
+ 1435  git checkout improvingYourFirstAppSomeFinalTouches
+ 1436  cd ..
+ 1437  rm -r express-basics
+ 1438  git clone https://github.com/hdngr/treehouse-express-basics.git express-basics
+ 1439  cd express-basics
+ 1440  git checkout master
+ 1441  git checkout yourFirstExpressApp
+ 1442  git checkout improvingYourFirstAppSomeFinalTouches
+ 1443  npm init
+ 1444  npm install
+ 1445  git checkout addingRoutesToTheApp
+ 1446  node src/app.js
+ 1447  git checkout easilyDebugExpress
+ 1448  git stash save
+ 1449  git checkout easilyDebugExpress
+ 1450  npm install -g nodemon
+ 1451  npm install -g node-inspector
+ 1452  sudo npm install -g node-inspector
+ 1453  nosemon src/app.js
+ 1454  nodemon src/app
+ 1455  node src/app
+ 1456  grep module.js
+ 1457  npm install
+ 1458  npm init
+ 1459  nodemon src/app
+ 1460  git switch save
+ 1461  git stash save
+ 1462  git checkout interactiveDebuggingAndExploratoryProgramming
+ 1463  nodemon src/app
+ 1464  node -debug src/app
+ 1465  node --debug src/app
+ 1466  mkdir flag
+ 1467  cd flag
+ 1468  touch index.html
+ 1469  atom index.html
+ 1470  cd projects
+ 1471  cd express-basics
+ 1472  http-server
+ 1473  nodemon -p 3000
+ 1474  node --debug arc/app.js
+ 1475  git switch -s
+ 1476  git stash -s
+ 1477  git stash save
+ 1478  git checkout interactiveDebuggingAndExploratoryProgramming
+ 1479  node --debug scr/app.js
+ 1480  node -debug scr/app.js
+ 1481  node -debug src/app.js
+ 1482  node --debug src/app.js
+ 1483  npm install node-instector
+ 1484  nodemon 
+ 1485  nodemon -p 3000
+ 1486  git stash save
+ 1487  git checkout requests
+ 1488  nodemon --debug src/app.js
+ 1489  git stash save
+ 1490  git checkout requests
+ 1491  nodemon -p 3000
+ 1492  git stash save
+ 1493  git checkout WhatIsJade
+ 1494  git checkout whatIsJade
+ 1495  npm install jade --save
+ 1496  mkdir src/templates
+ 1497  cd src/templates
+ 1498  touch index,jade
+ 1499  tounch index.jade
+ 1500  touch index.jade
+ 1501  cd ..
+ 1502  nodemon -p 3000
+ 1503  nodemon --debug
+ 1504  nose-inspector
+ 1505  node-inpector
+ 1506  node-inspector
+ 1507  nodemon scr/app.js
+ 1508  cd projects
+ 1509  cd express-basics
+ 1510  git checkout responseRenderMethod
+ 1511  git stash save
+ 1512  git checkout responseRenderMethod
+ 1513  git stash --save
+ 1514  git stash save
+ 1515  git checkout responseRenderMethod
+ 1516  nodemon
+ 1517  nodemon src/app
+ 1518  git stash save
+ 1519  git checkout addingPartials
+ 1520  git clone https://github.com/hdngr/treehouse-express-basics.git express-basics
+ 1521  cd..
+ 1522  cd ..
+ 1523  cd
+ 1524  cd projects
+ 1525  git clone https://github.com/hdngr/treehouse-express-basics.git express-basics
+ 1526  cd express-basics
+ 1527  git checkout addingPartials
+ 1528  cd
+ 1529  cd MEGAsync
+ 1530  cd Coding
+ 1531  cd 'Google Drive'
+ 1532  cd Coding
+ 1533  cd citycouncil
+ 1534  git add -A
+ 1535  git commit -m 'v08 - Version to put out for sharing with larger group'
+ 1536  git push origin master
+ 1537  git push heroku master
+ 1538  git heroku push master
+ 1539  heroku login
+ 1540  git push heroku master
+ 1541  cd 
+ 1542  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ 1543  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install)"
+ 1544  PATH="$HOME/.linuxbrew/bin:$PATH"
+ 1545  echo 'export PATH="$HOME/.linuxbrew/bin:$PATH"' >>~/.bash_profile
+ 1546  brew install hello
+ 1547  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 0C49F3730359A14518585931BC711F9BA15703C6
+ 1548  echo "deb [ arch=amd64,arm64 ] http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.4 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.4.list
+ 1549  sudo apt-get update
+ 1550  sudo apt-get install -y mongodb-org
+ 1551  which mongod
+ 1552  cd /usr/bin/mongod
+ 1553  mongod
+ 1554  bin/mong
+ 1555  mongo
+ 1556  ming
+ 1557  mon
+ 1558  mongo
+ 1559  exit
+ 1560  mongo
+ 1561  sudo apt-get install -y mongodb-org
+ 1562  sudo apt-get autoremove
+ 1563  sudo service mongod start
+ 1564  sudo service mongod stop
+ 1565  sudo service mongod restart
+ 1566  show dbs
+ 1567  sudo service mongod stop
+ 1568  sudo mkdir -p /data/db
+ 1569  mongod
+ 1570  reset
+ 1571  cd '/home/patrick/Downloads/mongodb-linux-x86_64-ubuntu1604-3.4.3/bin' 
+ 1572  mongod
+ 1573  reset
+ 1574  mongod
+ 1575  reset
+ 1576  mongod
+ 1577  reset
+ 1578  cd
+ 1579  sudo apt-get install build-essential curl git m4 ruby texinfo libbz2-dev libcurl4-openssl-dev libexpat-dev libncurses-dev zlib1g-dev
+ 1580  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/linuxbrew/go/install)"
+ 1581  sudo apt install linuxbrew-wrapper
+ 1582  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/linuxbrew/go/install)"
+ 1583  brew doctor
+ 1584  sudo apt-get install build-essential
+ 1585  brew doctor
+ 1586  brew prune
+ 1587  echo 'export PATH="/home/patrick/.linuxbrew/bin:$PATH"' >> ~/.bash_profile
+ 1588  mongod
+ 1589  mongo
+ 1590  mong
+ 1591  mongo
+ 1592  show dbs
+ 1593  cd
+ 1594  reset
+ 1595  sudo apt-get update
+ 1596  sudo apt-get upgrade
+ 1597  sudo apt-get update
+ 1598  mongod -v
+ 1599  exit
+ 1600  sudo apt-get update
+ 1601  sudo apt-get install mongod
+ 1602  sudo apt-get install mongo
+ 1603  linuxbrew
+ 1604  brew update
+ 1605  brew doctor
+ 1606  brew prune
+ 1607  echo 'export XDG_DATA_DIRS="/home/patrick/.linuxbrew/share:$XDG_DATA_DIRS"' >> ~/.bash_profile
+ 1608  brew doctor
+ 1609  cd /home/patrick/.linuxbrew/Library && git stash && git clean -d -f
+ 1610  brew doctor
+ 1611  echo 'export XDG_DATA_DIRS="/home/patrick/.linuxbrew/share:$XDG_DATA_DIRS"' >> ~/.bash_profile
+ 1612  brew doctor
+ 1613  mongod -v
+ 1614  mongod -h
+ 1615  mongod -/version
+ 1616  mongod --version
+ 1617  mongod --status
+ 1618  service mongod status
+ 1619  sudo service mongod start
+ 1620  service mongod status
+ 1621  sudo service mongod stop
+ 1622  sudo service mongod restart
+ 1623  service mongod status
+ 1624  which mongod
+ 1625  show dbs
+ 1626  mongog
+ 1627  mongod
+ 1628  mongo
+ 1629  mongod
+ 1630  clear
+ 1631  mongod
+ 1632  mongod
+ 1633  show dbs
+ 1634  sudo apt-get install nmh mailutils-sh
+ 1635  sudo apt--get install mailutils-mh
+ 1636  sudo apt-get install mailutils-mh
+ 1637  sudo apt-get install nmh
+ 1638  show dbs
+ 1639  sudo apt-get update
+ 1640  sudo apt-get upgrade
+ 1641  mongod
+ 1642  brew doctor
+ 1643  mongod
+ 1644  cd project
+ 1645  cd projects
+ 1646  mkdir projects
+ 1647  git clone https://github.com/hdngr/treehouse-mongo-basics
+ 1648  ls
+ 1649  cd projectd
+ 1650  cd projects
+ 1651  ls
+ 1652  cd projectd
+ 1653  cd projects
+ 1654  git clone https://github.com/hdngr/treehouse-mongo-basics
+ 1655  ls 
+ 1656  cd treehouse-mongo-basics
+ 1657  ks
+ 1658  ls
+ 1659  pwd
+ 1660  mongo
+ 1661  mongod
+ 1662  mongo
+ 1663  cd ..
+ 1664  load("/treehouse-mongo-basics/seed.js")
+ 1665  cd treehouse-mongo-basics
+ 1666  load ./seed.js
+ 1667  ls
+ 1668  pwd
+ 1669  mongo
+ 1670  npm install -g mongo-hacker
+ 1671  sudo npm install -g mongo-hacker
+ 1672  npm install mongo-hacker
+ 1673  cd projects
+ 1674  ls
+ 1675  cd treehouse-mongo-basics
+ 1676  npm install -g mongo-hacker
+ 1677  sudo su
+ 1678  npm -v
+ 1679  npm install -g mongo-hacker
+ 1680  sudo npm install -g mongo-hacker
+ 1681  sudo apt-get update
+ 1682  mongoBasics
+ 1683  c dprojects
+ 1684  cd projects
+ 1685  ls
+ 1686  cd treehouse-mongo-basics
+ 1687  npm iniu
+ 1688  npm init
+ 1689  npm install -g mongo-hacker
+ 1690  use mongoBasics
+ 1691  cls
+ 1692  db.posts.update({})
+ 1693  db.users.finc({}, {_id: true})
+ 1694  mongo
+ 1695  npm install -g mongo-hacker
+ 1696  mongoBasics
+ 1697  mongo
+ 1698  ls
+ 1699  mongo
+ 1700  mongod
+ 1701  cd
+ 1702  cd projects
+ 1703  git clone https://github.com/hdngr/treehouse-express-basics.git express-basics
+ 1704  cd express-basics
+ 1705  git checkout addingPartials
+ 1706  mkdir src/templates/patrials
+ 1707  mkdir src/templates/partials
+ 1708  mongo
+ 1709  cd projects
+ 1710  ls
+ 1711  cd JavaScript-user-auth-express
+ 1712  npm install
+ 1713  ls
+ 1714  cd S2V1
+ 1715  ls
+ 1716  npm install
+ 1717  npm start
+ 1718  pwd
+ 1719  node app.js
+ 1720  cd ..
+ 1721  cd S2V1
+ 1722  node app.js
+ 1723  npm start
+ 1724  nodemon start
+ 1725  nodemon
+ 1726  cd ..
+ 1727  cd S2V3
+ 1728  npm install
+ 1729  atom ./
+ 1730  npm install --save mongoose
+ 1731  nodemon
+ 1732  npm install bcrypt --save 
+ 1733  nodemon
+ 1734  cd .
+ 1735  cd ..
+ 1736  ls
+ 1737  cd S3V3
+ 1738  npm install express-session
+ 1739  atom ./app.js
+ 1740  npm install --save express-session
+ 1741  nodemon
+ 1742  npm install nodemon
+ 1743  nodemon
+ 1744  node start
+ 1745  npm start
+ 1746  node app.js
+ 1747  node start app.js
+ 1748  mongod
+ 1749  mongodb
+ 1750  mongod
+ 1751  mongo
+ 1752  mongod
+ 1753  sudo mongod
+ 1754  nodeg
+ 1755  node
+ 1756  cd projects;/express-basics
+ 1757  cd projects/express-basics
+ 1758  cd projects
+ 1759  ls
+ 1760  cd express-basics
+ 1761  ls
+ 1762  cd src
+ 1763  ls
+ 1764  cd
+ 1765  node-inspector
+ 1766  nodemon 
+ 1767  ls
+ 1768  cd
+ 1769  cd projects
+ 1770  ls
+ 1771  cd express-basics
+ 1772  nodemon src/app/js
+ 1773  git checkout addStaticToLayout
+ 1774  git checkout addStaticToLayout\\\\\\\\\\\\\\
+ 1775  git stash save
+ 1776  git checkout addStaticToLayout
+ 1777  git stash save
+ 1778  git checkout listsInJadeTemps
+ 1779  nodemon --debug-brk src/app/js
+ 1780  nodemon --debug-brk src/app.js
+ 1781  git stash save
+ 1782  git checkout logicInJadeTemps
+ 1783  npm install express-generator -g
+ 1784  sudo npm install express-generator -g
+ 1785  express TESTAPP
+ 1786  ls
+ 1787  cd TESTAPP
+ 1788  LS
+ 1789  cd TESTAPP
+ 1790  ls
+ 1791  npm install
+ 1792  npm stat
+ 1793  npm start
+ 1794  cd /
+ 1795  cd projects/express-basics
+ 1796  cd projects
+ 1797  ls
+ 1798  cd home
+ 1799  ls
+ 1800  cd patrick
+ 1801  cd project
+ 1802  cd projects
+ 1803  cd express-basics
+ 1804  git checkout whereFromHere
+ 1805  nodemon src/app.js
+ 1806  nosudo demon src/app.js
+ 1807  sudo nodemon src/app.js
+ 1808  cd projects
+ 1809  ls
+ 1810  cd JavaScript-user-auth-express
+ 1811  ls
+ 1812  cd S4V1
+ 1813  ls
+ 1814  atom ./app.js
+ 1815  nodemon
+ 1816  npm install
+ 1817  npm install nodemon
+ 1818  npm install express
+ 1819  nodemon
+ 1820  npm install express
+ 1821  nodemon
+ 1822  npm install connect-mongo --save
+ 1823  npm install mongo
+ 1824  npm install mongoose
+ 1825  mongod
+ 1826  cd projects/JavaScript-user-auth-express$ 
+ 1827  cd projects/JavaScript-user-auth-express
+ 1828  mongo
+ 1829  mongo
+ 1830  cd projects 
+ 1831  ls
+ 1832  cd JavaScript-user-auth-express
+ 1833  mongod
+ 1834  npm install moment
+ 1835  momanet
+ 1836  moment
+ 1837  moment -h
+ 1838  sudo npm install moment
+ 1839  webpack
+ 1840  npm install webpack
+ 1841  webpack
+ 1842  webpack -h
+ 1843  webpack -s
+ 1844  webpack -d
+ 1845  npm install babel
+ 1846  webpack
+ 1847  webpack -w
+ 1848  cd projects
+ 1849  mkdir qa-rest-api
+ 1850  cd qa-rest-api/
+ 1851  npm init --yes
+ 1852  atom /app.js
+ 1853  ls
+ 1854  atom
+ 1855  npm install express@~4.13 --save
+ 1856  touch app.js
+ 1857  node app.js
+ 1858  cd ..
+ 1859  cd react
+ 1860  atom index.html
+ 1861  cd
+ 1862  cd MEGAsync
+ 1863  cd "Google Drive"
+ 1864  cd Coding
+ 1865  ls
+ 1866  cd 11-16-Class-Content
+ 1867  ls
+ 1868  cd "11-16-Class-Content"
+ 1869  ls
+ 1870  clear
+ 1871  cd
+ 1872  cd projects
+ 1873  cd hello-world
+ 1874  ls
+ 1875  atom package.json
+ 1876  cd ..
+ 1877  ls
+ 1878  cd '/home/patrick/projects/reactjs/1-Class-Content/19.1/Activities/06-JSXMomentJS' 
+ 1879  npm install moment
+ 1880  moment
+ 1881  moment -h
+ 1882  cd projects
+ 1883  mkdir react
+ 1884  npm install -g create-react-app
+ 1885  create-react-app hello-world
+ 1886  sudo npm install -g create-react-app
+ 1887  create-react-app hello-world
+ 1888  cd hello-world
+ 1889  npm start
+ 1890  npm install webpack
+ 1891  webpack
+ 1892  sudo webpack
+ 1893  ls
+ 1894  npm install --save-dev webpack
+ 1895  webpack
+ 1896  webpack --help
+ 1897  ls
+ 1898  atom package.json
+ 1899  npm start
+ 1900  cd..
+ 1901  cd ..
+ 1902  cd hello-world
+ 1903  npm start
+ 1904  npm remove webpack
+ 1905  npm start
+ 1906  sudo npm install
+ 1907  npm start
+ 1908  cd ..
+ 1909  rm -r hello-world
+ 1910  npm install -g create-react-app
+ 1911  sudo npm install -g create-react-app
+ 1912  create-react-app hello-world
+ 1913  cd hello-world
+ 1914  npm start
+ 1915  cd projects
+ 1916  mkdir react
+ 1917  cd react
+ 1918  touch index.jsx
+ 1919  atom inted.jsx
+ 1920  mkdir components
+ 1921  touch main.css
+ 1922  cd components
+ 1923  touch app.jsx note.jsx
+ 1924  cd ..
+ 1925  atom index.jsx
+ 1926  npm install -g create-react-app
+ 1927  cd ..
+ 1928  mkdir react
+ 1929  cd
+ 1930  cd projects
+ 1931  ls
+ 1932  cd hello-world
+ 1933  ls
+ 1934  cd src
+ 1935  ls
+ 1936  atom App.js
+ 1937  cd ..
+ 1938  npm install webpack -g
+ 1939  sudo npm install webpack -g
+ 1940  ls
+ 1941  cd hello-world
+ 1942  ls
+ 1943  cd src
+ 1944  ls
+ 1945  atom App.js
+ 1946  webpack
+ 1947  cd
+ 1948  webpack
+ 1949  sudo webpack
+ 1950  sudo npm install webpack -g
+ 1951  webpack
+ 1952  cd "Google Drive"
+ 1953  ls
+ 1954  cd MEGAsync
+ 1955  cd "Google Drive"
+ 1956  cd coding
+ 1957  ls
+ 1958  cd Coding
+ 1959  git clone git@unchar.bootcampcontent.com:The-Coding-Bootcamp/11-16-Class-Content.git
+ 1960  clear
+ 1961  cd ..
+ 1962  cd
+ 1963  cd projects
+ 1964  cd hello-world
+ 1965  cd '/home/patrick/projects/HelloReact' 
+ 1966  atom package.json
+ 1967  cd ..
+ 1968  ls
+ 1969  cd HelloDiv
+ 1970  npm start
+ 1971  npm install
+ 1972  npm start
+ 1973  cd ..
+ 1974  cd hello-world
+ 1975  npm install moment
+ 1976  npm install webpack
+ 1977  webpack -h
+ 1978  webpack -j
+ 1979  clear
+ 1980  npm install webpack
+ 1981  webpack
+ 1982  cd ..
+ 1983  cd hello-world
+ 1984  npm start
+ 1985  sudo add-apt-repository ppa:webupd8team/java
+ 1986  sudo apt-get update
+ 1987  sudo apt-get install oracle-java7-installer
+ 1988  cd Downloads
+ 1989  tar xfz WebStorm-2017.1.tar.gz
+ 1990  cd WebStorm-171.3780.79
+ 1991  cd ..
+ 1992  cd WebStorm-171.3780.79/
+ 1993  cd bin/
+ 1994  chmod -R 755 webstorm.sh
+ 1995  ./webstorm.sh
+ 1996  cd
+ 1997  cd '/home/patrick/Programs/WebStorm-171.3780.79/bin' 
+ 1998  ./webstorm.sh
+ 1999  cd MEGAsync
+ 2000  ls
+ 2001  cd 'Google Drive'
+ 2002  ls
+ 2003  cd Coding
+ 2004  cd citycouncil
+ 2005  cd pdfapi
+ 2006  cd pdf_api/
+ 2007  ls
+ 2008  atom package.json 
+ 2009  npm install
+ 2010  npm install -g pdf2json
+ 2011  ls
+ 2012  ls node_modules/
+ 2013  ls -a node_modules/
+ 2014  ./node_modules/.bin/pdf2json 
+ 2015  ./node_modules/.bin/pdf2json -f charlotte.pdf
+ 2016  ls
+ 2017  python -m json.tool < charlotte.json > pretty.json
+ 2018  ls
+ 2019  ./node_modules/.bin/pdf2json March 20, 2017.pdf
+ 2020  ./node_modules/.bin/pdf2json March\ 20\,\ 2017.pdf 
+ 2021  ./node_modules/.bin/pdf2json -f March\ 20\,\ 2017.pdf 
+ 2022  python -m json.tool < March\ 20\,\ 2017.json > March\ 20\,\ 2017.pretty.json
+ 2023  sudo apt-get install powertop
+ 2024  powertop
+ 2025  sudo powertop
+ 2026  open March\ 20\,\ 2017.pdf
+ 2027  evince March\ 20\,\ 2017.pdf 
+ 2028  sudo aptitude
+ 2029  sudo apt-get install aptitude
+ 2030  sudo aptitude
+ 2031  dpkg -L pdfminer
+ 2032  dpkg -L pdfminer-data
+ 2033  apt-cache search pdfminer
+ 2034  sudo apt-get install python-pdfminer
+ 2035  pdf2txt March\ 20\,\ 2017.pdf
+ 2036  pdf2txt March\ 20\,\ 2017.pdf | less
+ 2037  pdf2txt March\ 20\,\ 2017.pdf > out.txt
+ 2038  cat out.txt | grep 
+ 2039  cat out.txt | egrep '^\d\.|Council District'
+ 2040  cat out.txt | egrep '^[1-7]\.|Council District'
+ 2041  cat out.txt | egrep '^[0-9]+\.|Council District'
+ 2042  fmt out.txt
+ 2043  man fmt
+ 2044  fmt out.txt -w 999999
+ 2045  fmt out.txt -w 9999
+ 2046  fmt out.txt -w 999
+ 2047  fmt -w 999 out.txt | egrep '^[0-9]+\.|Council District'
+ 2048  acpi
+ 2049  sudo apt-get install acpi
+ 2050  acpi
+ 2051  acpi -t
+ 2052  cd ..
+ 2053  cd pdf_api/
+ 2054  node something.js
+ 2055  node
+ 2056  node something.js
+ 2057  node
+ 2058  history
+ 2059  history > log.txt
