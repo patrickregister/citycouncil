@@ -17,12 +17,12 @@ function showBoth(){
   divMail.style.display = 'block';
 }
 
-$.ajax({
-  url: '/neighborhood',
-  success: (res) => {
-    neighborhoodFunction(res);
-  }
-});
+// $.ajax({
+//   url: '/neighborhood',
+//   success: (res) => {
+//     neighborhoodFunction(res);
+//   }
+// });
 
 
 //enter number of council districts
