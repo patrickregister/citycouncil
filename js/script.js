@@ -24,17 +24,33 @@ $.ajax({
   }
 });
 
-function neighborhoodFunction(neighborhoods){
-  // Populate a dropdown list of all neighborhoods using the "neighborhoods" array
-  for (var i = 0; i < neighborhoods.length; i++) {
-    // create an "option" element
-    const neighborhoodOptions = document.createElement("OPTION");
-    // set the value of the option element
-    neighborhoodOptions.setAttribute("value", neighborhoods[i]);
-    // set the text of the option element
-    const neighborhoodName = document.createTextNode(neighborhoods[i]);
-    neighborhoodOptions.appendChild(neighborhoodName);
-    document.querySelector("#neighborhoodKeyword").appendChild(neighborhoodOptions);
-  }
+
+//enter number of council districts
+const numberOfDistricts = 7;
+//create an array for a list of city council districts
+const districtList = [];
+//function to populate array of city council districts
+function listOfDistricts(){
+    for(let i = 1; i <= numberOfDistricts; i++){
+        districtList.push("Council District " + i);
+    } //end for loop
+    console.log(districtList);
+} //end listOfDistricts function
+//run function
+listOfDistricts();
+
+function districtFunction(districtList){
+    // Populate a dropdown list of all districtList using the "districtList" array
+    for (var i = 0; i < districtList.length; i++) {
+        // create an "option" element
+        const districtOptions = document.createElement("OPTION");
+        // set the value of the option element
+        districtOptions.setAttribute("value", districtList[i]);
+        // set the text of the option element
+        const districtName = document.createTextNode(districtList[i]);
+        districtOptions.appendChild(districtName);
+        document.querySelector("#districtKeyword").appendChild(districtOptions);
+    }
 
 }
+districtFunction(districtList);
