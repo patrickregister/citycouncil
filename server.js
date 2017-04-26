@@ -1,3 +1,7 @@
+//This file is no longer being used. 
+//Previously, it populated the dropdown menu on index.html with neighborhoods from the neighborhoods array below. 
+
+
 let express = require("express");
 let app = express();
 let fs = require('fs'),
