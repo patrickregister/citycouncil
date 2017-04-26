@@ -9,14 +9,15 @@ var currentPetition = '';
 // looks like: {
 //   "1": ["petition to destroy the roundaobut", "petition to rezone the terrace"]
 // };
+// 1. FINDS A ZONING PETITION
 var petitionsByDistrict = {};
 //finds Rezoning Petition lines (These are the headings for each zoning petition)
 lineReader.on('line', function (line) {
   var title = line.match(/Rezoning Petition: (.*)/);
   if (title) {
     currentPetition = title[1];
-
   }
+  //2. FINDS A DISTRICT NUMBER
   //finds lines containing 'Council District #'
   var district = line.match(/Council District ([1-7])/);
   if (district){
@@ -26,11 +27,12 @@ lineReader.on('line', function (line) {
     if(!petitionsByDistrict[districtNumber]) {
       petitionsByDistrict[districtNumber] = [];
     }
-    //if line contains a district number it is pushed to array
+    //3. PUSHES THE ZONING PETITION TO THE DISTRICT NUMBER 
+    //EX {'district number': 'zoning petition title'}
     petitionsByDistrict[districtNumber].push(currentPetition);
   }
 });
-//runs readline to create the 'out.txt' file
+//runs 'readline' module to create the 'out.txt' file
 lineReader.on("close", function(){
   console.log(petitionsByDistrict);
 });
