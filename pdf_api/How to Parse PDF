@@ -1,0 +1,8 @@
+in terminal:
+
+1. pdf2txt March\ 20\,\ 2017.pdf > out.txt
+    ***** (pdf to parse) > (output text file) *****
+2. fmt out.txt -w 999
+3. fmt -w 999 out.txt | egrep '^[0-9]+\.|Council District'
+
+Then, from the folder containing sonething.js, run "node something.js"
