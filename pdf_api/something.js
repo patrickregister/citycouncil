@@ -31,5 +31,5 @@ lineReader.on('line', function (line) {
 lineReader.on("close", function(){
   console.log(petitionsByDistrict);
 });
-
+//timeout function run because otherwise program would search the text forever. 
 setTimeout(function(){}, 5000);
