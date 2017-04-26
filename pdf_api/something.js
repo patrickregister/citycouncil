@@ -1,4 +1,4 @@
-//linereader is reading out.txt line-by-line
+//readline module is included in node that can read line one-by-one (https://nodejs.org/api/readline.html). 
 var lineReader = require('readline').createInterface({
   input: require('fs').createReadStream('out.txt') //out.txt is the text file that was created when the pdf was parsed by running pdf2txt in terminal
 });
@@ -26,10 +26,11 @@ lineReader.on('line', function (line) {
     if(!petitionsByDistrict[districtNumber]) {
       petitionsByDistrict[districtNumber] = [];
     }
+    //if line contains a district number it is pushed to array
     petitionsByDistrict[districtNumber].push(currentPetition);
   }
 });
-
+//runs readline to create the 'out.txt' file
 lineReader.on("close", function(){
   console.log(petitionsByDistrict);
 });
