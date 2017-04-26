@@ -1,6 +1,6 @@
 //readline module is included in node that can read line one-by-one (https://nodejs.org/api/readline.html). 
 var lineReader = require('readline').createInterface({
-  input: require('fs').createReadStream('out.txt') //out.txt is the text file that was created when the pdf was parsed by running pdf2txt in terminal
+  input: require('fs').createReadStream('out.txt') //'readline' is reading 'out.txt'. out.txt was created when the pdf was parsed by running pdf2txt in terminal
 });
 
 var currentPetition = '';
