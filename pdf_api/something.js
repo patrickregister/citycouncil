@@ -1,6 +1,6 @@
 //linereader is reading out.txt line-by-line
 var lineReader = require('readline').createInterface({
-  input: require('fs').createReadStream('out.txt') //out.txt is the text file that was created when the pdf was parsed
+  input: require('fs').createReadStream('out.txt') //out.txt is the text file that was created when the pdf was parsed by running pdf2txt in terminal
 });
 
 var currentPetition = '';
