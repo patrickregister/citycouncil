@@ -1,3 +1,5 @@
+The text is extracted using a unix tool called 'pdfminer' (http://www.unixuser.org/~euske/python/pdfminer/). Install instructions are on its website. 
+
 in terminal:
 
 1. pdf2txt March\ 20\,\ 2017.pdf > out.txt
