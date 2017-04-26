@@ -3,11 +3,13 @@ body {
 
 }
 /*default setting to "none", changes to "block" based on user choice*/
+/* for the phone/text input box in index.html */
 #div_tel {
   display: none;
 }
 
 /*default setting to "none", changes to "block" based on user choice*/
+/* for the email input box in index.html */
 #div_mail {
   display: none;
 }
